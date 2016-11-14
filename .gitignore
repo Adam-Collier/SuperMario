@@ -1,0 +1,25 @@
+
+# Created by https://www.gitignore.io/api/sass,codekit,git,jekyll
+
+### Sass ###
+.sass-cache/
+*.css.map
+
+
+### CodeKit ###
+# General CodeKit files to ignore
+config.codekit
+/min
+
+### CodeKit Patch ###
+*/codekit-config.json
+.codekit-cache
+
+
+### Git ###
+*.orig
+
+
+### Jekyll ###
+_site/
+.jekyll-metadata
